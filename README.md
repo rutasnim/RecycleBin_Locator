@@ -18,7 +18,7 @@ Pandas, Numpy, Geopy, Folium
 This jupyter notebook takes your current geospatial location. Then from the dataset, it calculates the length of the shortest path between two points your location and the recycling bins locations in the dataset, and returns a dataframe output with 10 nearest recycling bins locations near you. At the end, I also created an interactive map with all recycling bins in NYC and your location. 
 
 ## Demo/Result:
-
+As github don't support interactive notebooks, for the best user-experience, please use nbviewer(link below:) http://nbviewer.org/github/rutasnim/RecycleBin_Locator/blob/main/Public%20Recycle%20Bin%20Locater%20in%20NYC.ipynb#
 
 <img width="309" alt="image" src="https://user-images.githubusercontent.com/89811897/164916608-409af644-475d-4d0f-bbcb-6f1cc54575dd.png">
 
