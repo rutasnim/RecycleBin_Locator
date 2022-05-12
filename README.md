@@ -3,7 +3,7 @@
 
 # Finding Public Recycle Bins in New York City
 ## Motivation:
-While recycling at home, school and work is relatively straightforward, recycling in public spaces comes with many hurdles. Public recycling bins are placed sporadicly and sometimes, it takes a bit of effort to find one. Frequenctly, I have to carry recycling trash with me home to recycle after a day out for the lack of my knowledge of locations of recycling bins in public. In this project, I created this jupyter notebook that will show you 10 nearest public recycling bin near you in NYC and also, show u an interactive map with all the recycling bins information. 
+While recycling at home, school and work is relatively straightforward, recycling in public spaces comes with many hurdles. Public recycling bins are placed sporadicly and sometimes, it takes a bit of effort to find one. Frequenctly, I have to carry recycling trash with me home to recycle after a day out for the lack of my knowledge of whereabouts of recycling bins in public. In this project, I created this jupyter notebook that will show you 10 nearest public recycling bin near you in NYC and also, show u an interactive map with all the recycling bins information. 
 
 
 ## Dataset:
